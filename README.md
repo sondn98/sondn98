@@ -4,7 +4,7 @@
 Driven by Innovation & Excellence
 Passionate About Data Engineering and Building Robust Data Platforms
 
-I am dedicated to continuous learning, innovation, and delivering impactful solutions. With With a strong background in Computer Science and 3 years of experience as a Data Engineer, I am passionate about exploring cutting-edge data processing technologies and building robust, scalable data platforms. My expertise lies in designing and optimizing data pipelines, ensuring efficient data flow, and leveraging modern architectures to support business intelligence and analytics.
+I am dedicated to continuous learning, innovation, and delivering impactful solutions. With a strong background in Computer Science and 3 years of experience as a Data Engineer, I am passionate about exploring cutting-edge data processing technologies and building robust, scalable data platforms. My expertise lies in designing and optimizing data pipelines, ensuring efficient data flow, and leveraging modern architectures to support business intelligence and analytics.
 
 Beyond my professional work, I actively build and maintain a homelab to experiment with new technologies, enhance my skills, and explore innovative data solutions. Always eager to learn and innovate, I strive to develop solutions that enhance data reliability, performance, and scalability.
 
@@ -30,4 +30,4 @@ Let’s connect and explore opportunities for collaboration.
 #### Github
 [![GitHub Streak](https://streak-stats.demolab.com?user=sondn98&card_width=499&card_height=199)](https://git.io/streak-stats)
 #### Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sondn?theme=light&font=Fira%20Sans)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sondn98?theme=light&font=Pragati%20Narrow&ext=heatmap)
